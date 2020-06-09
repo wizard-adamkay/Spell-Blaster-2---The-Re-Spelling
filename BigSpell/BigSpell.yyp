@@ -215,6 +215,14 @@
             }
         },
         {
+            "Key": "d8eec8c7-3950-4738-9d01-ea03c2a53de0",
+            "Value": {
+                "id": "e4bd9d38-2bd2-45b2-981a-be396022ec52",
+                "resourcePath": "objects\\oBaseSpell\\oBaseSpell.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "dee1f0f3-6cde-4f83-80f7-9fa05c67ff1b",
             "Value": {
                 "id": "91b1940b-c0e4-4465-ad5f-6a8e924f1c43",

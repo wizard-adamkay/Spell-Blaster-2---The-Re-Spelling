@@ -1,8 +1,8 @@
 {
-    "id": "dee1f0f3-6cde-4f83-80f7-9fa05c67ff1b",
+    "id": "d8eec8c7-3950-4738-9d01-ea03c2a53de0",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oFireball",
+    "name": "oBaseSpell",
     "eventList": [
         
     ],
@@ -22,23 +22,8 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": [
-        {
-            "id": "c0c6523b-997e-4c95-bd71-30e3bd341b8c",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "1",
-            "varName": "Damage",
-            "varType": 1
-        }
-    ],
+    "properties": null,
     "solid": false,
-    "spriteId": "b7760e45-0a6d-459a-b164-b2a91e8e87cc",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }
