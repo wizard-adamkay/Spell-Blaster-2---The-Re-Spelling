@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "oSpellSlot",
     "eventList": [
-        
+        {
+            "id": "c6b1b06e-408b-4354-b3f4-af7373302ed7",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 7,
+            "eventtype": 6,
+            "m_owner": "6c8fc5b7-aac4-4197-aa80-b626385925cb"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
