@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "1022f9c7-496c-4637-b159-760455f25448",
+            "Value": {
+                "id": "74da8360-1ebd-4806-a612-f0b8f54005d5",
+                "resourcePath": "objects\\oBattle\\oBattle.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "13f1e1ad-45cc-43d2-a054-991de8a91c5f",
             "Value": {
                 "id": "71a9deab-d4fd-4a65-9360-70cb50b9ca75",
@@ -71,11 +79,27 @@
             }
         },
         {
+            "Key": "4963ce54-8b0e-442e-9306-832a08818f62",
+            "Value": {
+                "id": "2554f49a-7456-4788-963c-9e6d363d4ece",
+                "resourcePath": "objects\\oPile\\oPile.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "4bbac266-9ac6-4fd8-8cbe-64b3422659d6",
             "Value": {
                 "id": "44c2b7eb-a086-4d14-890c-5eff6615d849",
                 "resourcePath": "views\\4bbac266-9ac6-4fd8-8cbe-64b3422659d6.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "4bd6f5df-f8dd-4704-a754-8f39c892565d",
+            "Value": {
+                "id": "d8882aee-cc47-489d-8144-8957c97889e6",
+                "resourcePath": "objects\\oPlayer\\oPlayer.yy",
+                "resourceType": "GMObject"
             }
         },
         {
