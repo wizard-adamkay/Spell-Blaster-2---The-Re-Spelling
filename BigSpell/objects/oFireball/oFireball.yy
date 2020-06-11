@@ -4,7 +4,26 @@
     "mvc": "1.0",
     "name": "oFireball",
     "eventList": [
-        
+        {
+            "id": "1ef30590-134e-4814-b09d-34a0a4ca469d",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 10,
+            "eventtype": 7,
+            "m_owner": "dee1f0f3-6cde-4f83-80f7-9fa05c67ff1b"
+        },
+        {
+            "id": "ae6d6ba2-a9cf-4ad4-98e3-bf8f91a46639",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "dee1f0f3-6cde-4f83-80f7-9fa05c67ff1b"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": [

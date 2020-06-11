@@ -4,7 +4,7 @@ with(oHand){
 	i = ds_list_find_index(hand, argument0);
 	if(i != -1){
 		ds_list_delete(hand, i);
-		instance_destroy(argument0);
+		resetPositions();
 		return true;
 	}
 	return false;

@@ -4,14 +4,14 @@ enum gamestates {
 	init,
 	pause,
 	wait,
-	action,
+	action
 }
 
 enum rulestates {
 	draw,
 	play,
 	action,
-	choose,
+	choice
 }
 player0 = instance_create_depth(x, y, 0, oPlayer);
 player1 = instance_create_depth(x, y, 0, oPlayer);
@@ -20,5 +20,5 @@ hand1 = instance_create_depth(x, y, 0, oHand);
 pile0 = instance_create_depth(x, y, 0, oPile);
 pile1 = instance_create_depth(x, y, 0, oPile);
 gamestate = gamestates.init;
-rulestate = rulestates.choose;
+rulestate = rulestates.choice;
 currentPlayer = 0;

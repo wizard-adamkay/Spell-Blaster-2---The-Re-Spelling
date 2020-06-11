@@ -1,3 +1,5 @@
-/// @description Insert description here
+/// @description Selecting a card
 // You can write your code in this editor
-global.activeCard = this;
+if (handContains(id) && (global.activeCard == undefined || global.activeCard == id)){
+	global.activeCard = id;
+}
