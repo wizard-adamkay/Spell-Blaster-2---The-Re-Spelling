@@ -1,14 +1,14 @@
 {
-    "id": "eb8f4bab-016a-418b-9429-c20e4cc84463",
+    "id": "13fee032-7024-4fa3-ad62-36b3ea8c0cd4",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oWatergun",
+    "name": "oBaseMod",
     "eventList": [
         
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "3ee3f2f9-e7d7-49d1-97e2-8b590be7c775",
+    "parentObjectId": "d8eec8c7-3950-4738-9d01-ea03c2a53de0",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "3fdd3319-109f-481d-a3ce-7fa6350f367e",
+    "spriteId": "60853e14-d8fa-4adb-9b44-cfec991ab7f8",
     "visible": true
 }
