@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "3fdd3319-109f-481d-a3ce-7fa6350f367e",
+            "Value": {
+                "id": "f09e5840-e47c-4a71-a463-47592ce41dfc",
+                "resourcePath": "sprites\\sWatergun\\sWatergun.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "492e7586-ff43-4665-8ca0-01f6d6ed6dc7",
             "Value": {
                 "id": "dec2d653-31a5-460c-aece-b9aafd805115",
@@ -308,6 +316,14 @@
                 "id": "2a83d511-e915-48f6-92e0-4a636e83577f",
                 "resourcePath": "views\\e0836491-390d-4235-8db7-6f17607a38fa.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "eb8f4bab-016a-418b-9429-c20e4cc84463",
+            "Value": {
+                "id": "592fa241-e2ae-496c-84fc-64d7d4cc7cc6",
+                "resourcePath": "objects\\oWatergun\\oWatergun.yy",
+                "resourceType": "GMObject"
             }
         },
         {
