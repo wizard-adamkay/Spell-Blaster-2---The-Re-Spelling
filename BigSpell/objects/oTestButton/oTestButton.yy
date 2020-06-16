@@ -1,18 +1,18 @@
 {
-    "id": "6f5c2d1e-f862-4803-a11b-29070910a0fb",
+    "id": "c59ae4ab-7861-40e7-a4e5-de0214b27f55",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oHand",
+    "name": "oTestButton",
     "eventList": [
         {
-            "id": "08176145-fdda-4737-8e6d-c4c8540d03c5",
+            "id": "05f914b2-11ab-48b0-8a3a-d84c69e37059",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "6f5c2d1e-f862-4803-a11b-29070910a0fb"
+            "enumb": 7,
+            "eventtype": 6,
+            "m_owner": "c59ae4ab-7861-40e7-a4e5-de0214b27f55"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -31,23 +31,8 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": [
-        {
-            "id": "15c48d6e-3cb3-421b-b599-563ae878af93",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "1",
-            "varName": "maxSize",
-            "varType": 1
-        }
-    ],
+    "properties": null,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "1e651286-ad43-4d33-9419-a95b95decc48",
     "visible": true
 }
