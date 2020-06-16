@@ -1,3 +1,3 @@
 /// @description Insert description here
-// You can write your code in this editor
+// just used to test out cards
 addCard(oFireball);
