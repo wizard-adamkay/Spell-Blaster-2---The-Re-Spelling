@@ -8,5 +8,7 @@ switch(gamestate) {
 	case gamestates.wait: {
 		
 	}
-	
+	case gamestates.action: {
+		
+	}
 }
